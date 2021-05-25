@@ -1,3 +1,2 @@
 fetch
-checkout1
-checkout2
+checkout
