@@ -1,0 +1,8 @@
+diff a/test.txt b/test.txt	(rejected hunks)
+@@ -1,3 +1,2 @@
+ fetch
+-checkout1
+-checkout2
+\ No newline at end of file
++checkout
+\ No newline at end of file
