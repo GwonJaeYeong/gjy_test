@@ -3,3 +3,4 @@ test1
 =======
 branch
 >>>>>>> version2
+123
