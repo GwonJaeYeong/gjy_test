@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-test1
-=======
-branch
->>>>>>> version2
-123
+version https://git-lfs.github.com/spec/v1
+oid sha256:cfc32bf76cc4d1c4415ada232c8978b240fe24a8fcde8f5868d6163a3b6fedda
+size 59

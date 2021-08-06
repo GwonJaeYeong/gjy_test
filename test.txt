@@ -1,7 +1,3 @@
-fetch
-checkout1
-checkout2
-
-branch
-
-123123
+version https://git-lfs.github.com/spec/v1
+oid sha256:d5e41c253f98e4cefa9338a8b0bba4a064d1cf3bdacc78a73b286537752d87e6
+size 47
